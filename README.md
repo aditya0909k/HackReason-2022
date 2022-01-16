@@ -1,4 +1,4 @@
-# HackReason-2022
+# HackReason-2022 2ND PLACE WINNER
 
 This hackathon asked participants to utilize prolog with the s(CASP) library developed by UT Dallas in collaboration with IMDEA, Spain. The s(CASP) system is used to automate common sense reasoning, which was the overall goal of this project.
 
