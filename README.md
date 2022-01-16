@@ -1,4 +1,4 @@
-# HackReason-2022 2ND PLACE WINNER  
+# HackReason-2022 WINNER  
 
 https://devpost.com/software/rise-risk-identifier-student-evaluation
 
